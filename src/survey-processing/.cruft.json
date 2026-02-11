@@ -1,0 +1,22 @@
+{
+  "template": "https://gitdma.risc-software.at/common/python-package-template",
+  "commit": "e3a9b483483d9411dc9a04f856eaad5b25e572ca",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "package_name": "survey",
+      "package_description": "Survey for the future of adaptive forecasts and the energy grid",
+      "is_subproject": false,
+      "package_url": "https://github.com/user/my-package",
+      "author_name": "Dominik Falkner",
+      "author_email": "dominik.falkner@risc-software.at",
+      "python_version": "3.11",
+      "docstring_style": "Google",
+      "__package_name_kebab_case": "survey",
+      "__package_name_snake_case": "survey",
+      "_template": "https://gitdma.risc-software.at/common/python-package-template",
+      "_commit": "e3a9b483483d9411dc9a04f856eaad5b25e572ca"
+    }
+  },
+  "directory": null
+}
