@@ -1,0 +1,45 @@
+NOTICE
+
+stlf-datasets-evaluation-repro — repository notice
+
+Copyright [2026] [Dominik Falkner]
+
+-------------------------------------------------------------------------------
+Apache License 2.0 (code)
+-------------------------------------------------------------------------------
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+-------------------------------------------------------------------------------
+Creative Commons Attribution 4.0 (non-code content)
+-------------------------------------------------------------------------------
+In addition to the Apache-2.0 licensed code, this repository contains
+non-code content that is licensed under the Creative Commons Attribution
+4.0 International license (CC BY 4.0).
+
+CC BY 4.0 applies to the following materials authored as part of this project,
+unless a file states otherwise:
+- The manuscript text and supplementary write-up content included in this repo
+- Figures, tables, diagrams, and other visual material created by the authors
+- The STLF-EVAL checklist and its accompanying explanatory text/templates
+- Derived review artifacts produced by the authors (e.g., curated study lists
+  and extracted/structured metadata files), to the extent such content is
+  original to the authors
+
+CC BY 4.0 does NOT apply to:
+- Source code and executable software (covered by Apache-2.0, see LICENSE)
+- Third-party content (e.g., publisher PDFs, copied abstracts, or externally
+  sourced figures/datasets) which remains under its respective license/terms
+- Trademarks or logos of third parties
+
+A copy of the CC BY 4.0 license text is provided in LICENSE-CC-BY.
+
