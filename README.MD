@@ -20,6 +20,14 @@ Short-term load forecasting (STLF) is undergoing a fundamental shift driven by r
   - a machine-readable export of the curated corpus metadata, and
   - a reporting & evaluation checklist for short-term load forecasting studies (e.g., **STLF-REP**).
 
+```
+- src/
+  - survey-processing/
+    # contains the code necessary to reproduce the survey including prisma, depduplication, plots, ...
+  - paper/
+    # Contains the latex code to reproduce the paper and any literature pile
+```
+
 ## How to use
 
 1. Review the paper to understand the scope, inclusion criteria, and terminology used in the extracted fields.
