@@ -1,0 +1,130 @@
+{
+  "hr": "Highly Relevant",
+  "lr": "Maybe Relevant",
+
+  "ia": "Impact Analysis",
+  "impact": "Impact Analysis",
+
+  // all of the following are "relevant
+  "tl": "Transfer Learning",
+  "sa": "Synth / Augmentation",
+  "g": "Generalization",
+
+  "al": "Adaptive Learning",
+  "am": "Adaptive Metrics",
+  "ev": "Exogenous Variables",
+
+  "mc": "Model Comparision",
+  "hm": "Hybrid Models",
+  "mv": "Multivariate",
+
+
+  // Datasets and Benchmarks
+  "od": "Open Data",
+  "b": "Benchmark",
+  "benchmark": "Benchmark",
+  "annotation": "Annotation",
+  "hyperp opt": "Hyperparameter Optimization",
+
+  // misc
+  "ml": "Metrics & Loss",
+  "eval": "Metrics & Loss",
+  "uc": "Uncertainty",
+  "l": "Load Forecasting",
+  "res": "Residential",
+  "prob": "Probabilistic",
+  "xai": "Explainable AI",
+  "pd": "Peak Demand",
+  "trend": "Trend",
+  "weather": "Weather",
+  "scenario": "Scenario-based Forecasts",
+  "p": "Price",
+  "o": "Optimization",
+  "forecast": "Model Comparision",
+
+  // survey like
+  "litr": "Literature Review",
+
+  // renewables
+  "pv": "Photovoltaic",
+  "w": "Wind",
+  "wind": "Wind",
+  "h": "Hydro",
+
+  // irrelevant
+  "ignore": {
+    // personal interest
+    "personal": "Personal",
+    "code_gen": "Code Generation Quality",
+    "supply": "Supply Chain",
+
+    // these are maybe relevant
+    // same area different topic
+    "hc": "Heating or Cooling",
+    "ihc": "Irrelevant Heating or Cooling",
+    "dr": "Demand Response",
+    "law": "Law",
+    "md": "Missing Data",
+    "resiliance": "Resiliance",
+    "fed": "Federated",
+    "anomaly": "Anomaly Detection",
+    "battery": "Battery",
+    "p":"Price Market",  // some have been manually included
+    "evs": "Electric Vehicles",
+    // typo
+    "vs": "Electric Vehicles",
+    "hydrogen": "Hydrogen",
+
+    // not relevant for now
+    "forecast": "Restaurant/Fashion Sales Forecast",
+
+    "o": "Optimization",
+    "nlp": "NLP",
+    "c": "Computer Vision",
+    "n": "NILM",
+    "iot": "IoT",
+    "robot": "Robotics",
+    "security": "Security",
+    "health": "Health",
+    "ir": "Irrelevant",
+    "fact": "Manufacturing related",
+    "i": "Industrial",
+    "ipv": "Industrial PV",
+    "fault": "Fault Detection",
+    "retail": "Retail",
+    "manufact": "manufacturing",
+    "market": "Market",
+    "vib": "Vibration",
+    "mpc": "Model Predictive Control",
+
+    // traffic prediction
+    "traffic": "Traffic Prediction",
+
+    // medicine related
+    "med": "Medicine",
+
+    // network management
+    "network": "Network Management",
+
+    // security related
+    "sec": "Security",
+
+    // performance related
+    "perf": "Performance",
+
+    // service implementations / code architecture
+    "service": "Service",
+
+    // rejections and reasons
+    "<15min": "Rejected: Deals with frequency of <15min",
+    "pa": "Predictive Analytics",
+    "f": "Financial",
+
+    // anything related to hardware design is manually removed
+
+    // manually removed
+    "events": "Forecasting to event sport detection",
+
+    "invalid": "Invalid reference from source"
+  }
+}

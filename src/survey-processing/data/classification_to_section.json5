@@ -1,0 +1,65 @@
+{
+    "General": [
+      "Highly Relevant",
+      // should contain "Must Read",
+      // "Maybe Relevant"
+    ],
+    "Introduction and Motivation": [
+      // should contain literature review, why this one?
+      // should contain impacts, why is it important?
+      "Literature Review",
+      "Impact Analysis",
+
+      // specific challenges in load prediction, 
+      // From: 
+      "Peak Demand",
+      "Trend",
+      "Weather",
+      "Price",
+    ],
+    "Deep Learning Models for Short-Term Load Prediction": [
+      "Classical Models",
+      "Deep Learning Models",
+      "Hybrid Models",
+      "Metrics & Loss",
+
+      "Model Comparison"
+    ],
+    "Transfer Learning": [
+      "Transfer Learning",
+      "Generalization",
+      "Explainable AI",
+    ],
+    "Adaptive Models": [
+      "Adaptive Learning",
+      "Multivariate",
+      // include Demografic changes and how to react here
+      "Exogenous Variables",
+    ],
+    "Probabilistic Models & Scenario-Based Forecasting": [
+      "Probabilistic",
+      "Uncertainty",
+      "Scenario-Based Forecasts",
+
+      "Weather",
+      "Price"
+      "Peak Demand",
+      "Trend",
+    ],
+    "Benchmarks and Open Datasets": [
+      "Benchmark",
+      "Open Data",
+      "Metrics & Loss",
+    ],
+    "Future Research Directions": [
+      // metrics for adaptive
+      // "Adaptive Learning",
+      // "Transfer Learning",
+      // "Open Data",
+      // "Explainable AI",
+      // "Uncertainty",
+      // "Integration of Exogenous Variables",
+      // "Hybrid Models"
+    ]
+  }
+  

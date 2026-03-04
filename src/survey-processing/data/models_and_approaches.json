@@ -1,0 +1,1022 @@
+[
+    {
+      "id": 0,
+      "model": "Value-based Reinforcement Learning",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 0,
+      "model": "Policy-based Reinforcement Learning",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 0,
+      "model": "LSTM",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 0,
+      "model": "CNN",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 0,
+      "model": "CNN-LSTM",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 0,
+      "model": "Empirical Mode Decomposition (EMD)",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 0,
+      "model": "STL",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 11,
+      "model": "fPCA",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 11,
+      "model": "RF",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 11,
+      "model": "GBM",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 29,
+      "model": "LSTM",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 29,
+      "model": "GRU",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 29,
+      "model": "CNN",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 29,
+      "model": "RNN",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 29,
+      "model": "Autoencoders",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 38,
+      "model": "LSTM",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 38,
+      "model": "CNN",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 38,
+      "model": "RNN",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 38,
+      "model": "GRU",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 38,
+      "model": "Autoencoders",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 38,
+      "model": "Stacked Autoencoders",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 40,
+      "model": "Variational Mode Decomposition (VMD)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 40,
+      "model": "Bi-Attention Mechanism",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 40,
+      "model": "Temporal Convolutional Network (TCN)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 45,
+      "model": "ARIMA",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 45,
+      "model": "ETS",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 45,
+      "model": "Decision Trees",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 45,
+      "model": "Neural Networks",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 50,
+      "model": "Gaussian Process Regression (GPR)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 50,
+      "model": "Neural Networks",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 54,
+      "model": "Temporal Convolutional Network",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 54,
+      "model": "Channel Enhanced Attention (CEA)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 79,
+      "model": "CEEMDAN",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 79,
+      "model": "Fuzzy Entropy (FE)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 79,
+      "model": "Bidirectional Gated Recurrent Unit (BiGRU)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 80,
+      "model": "Quantile LSTM",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 80,
+      "model": "Quantile Regression Forest (QRF)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 80,
+      "model": "Quantile Regression Neural Network (QRNN)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 80,
+      "model": "Quantile Gradient Boosting Regression Tree (QGBRT)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 83,
+      "model": "LSTM",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 83,
+      "model": "RNN",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 83,
+      "model": "SVM",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 83,
+      "model": "Genetic Algorithm (GA)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 83,
+      "model": "Particle Swarm Optimization (PSO)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 83,
+      "model": "Wavelet Transform (WT)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 83,
+      "model": "CNN",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 89,
+      "model": "LSTM",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 89,
+      "model": "EMD",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 89,
+      "model": "VMD",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 89,
+      "model": "Sparrow Search Algorithm (SSA)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 90,
+      "model": "Vine Copula",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 90,
+      "model": "Conditional Sampling Algorithm (CSA)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 91,
+      "model": "SWT",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 95,
+      "model": "GRU",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 95,
+      "model": "TCN",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 95,
+      "model": "Variational Autoencoder",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 98,
+      "model": "ARIMA",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 98,
+      "model": "SARIMA",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 98,
+      "model": "GM(1,1)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 98,
+      "model": "RNN",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 98,
+      "model": "LSTM",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 98,
+      "model": "BPNN",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 98,
+      "model": "Multi-Verse Optimization (MVO)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 98,
+      "model": "Prophet",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 109,
+      "model": "Bidirectional Long Short-Term Memory (BiLSTM)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 109,
+      "model": "Harris Hawk Optimization (HHO)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 109,
+      "model": "Differential Evolution (DE)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 114,
+      "model": "Empirical Copula (EC)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 114,
+      "model": "Quantile Regression (QR)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 124,
+      "model": "LSTM",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 124,
+      "model": "CNN",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 140,
+      "model": "CNN-LSTM-A",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 140,
+      "model": "CNN-LSTM",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 140,
+      "model": "LSTM",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 149,
+      "model": "LSTM",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 149,
+      "model": "Firefly Algorithm (FA)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 149,
+      "model": "Genetic Algorithm (GA)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 158,
+      "model": "NeuralProphet-LightGBM",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 173,
+      "model": "ML",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 173,
+      "model": "DL",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 173,
+      "model": "State Estimation (SE)",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 173,
+      "model": "Optimal Power Flow (OPF)",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 173,
+      "model": "Fault Detection",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 173,
+      "model": "Predictive Maintenance",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 173,
+      "model": "Consumer Segmentation",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 173,
+      "model": "Demand Response",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 173,
+      "model": "Graph Neural Networks (GNNs)",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 173,
+      "model": "Adversarial Learning",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 178,
+      "model": "XGBoost",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 193,
+      "model": "LSTM",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 193,
+      "model": "Transformers",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 193,
+      "model": "Hybrid Models",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 198,
+      "model": "CNN",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 198,
+      "model": "LSTM",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 198,
+      "model": "GRU",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 198,
+      "model": "CNN-LSTM",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 198,
+      "model": "DBN-GRU",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 198,
+      "model": "AE-RF",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 200,
+      "model": "SARIMA-ONS",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 202,
+      "model": "LSTM",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 203,
+      "model": "Linear Regression",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 203,
+      "model": "Non-Linear Regression",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 204,
+      "model": "TS2Vec",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 204,
+      "model": "Transformer-based attention",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 204,
+      "model": "Autoregressive component",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 212,
+      "model": "ARMA",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 212,
+      "model": "LSTM",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 212,
+      "model": "ResNet",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 225,
+      "model": "Deep Learning",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 225,
+      "model": "Classical Models",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 225,
+      "model": "Ensemble Models",
+      "literature_review": true,
+      "certainty": "sure"
+    },
+    {
+      "id": 231,
+      "model": "TCN",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 231,
+      "model": "Feedforward Neural Networks",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 231,
+      "model": "Recurrent Neural Networks",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 231,
+      "model": "Sequence-to-Sequence Models",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 279,
+      "model": "OEWT",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 279,
+      "model": "LSTM",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 279,
+      "model": "BLS",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 279,
+      "model": "Residual Learner (RL)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 279,
+      "model": "Auxiliary Learner (AL)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 281,
+      "model": "RBF",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 281,
+      "model": "RVFL",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 281,
+      "model": "BPNN",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 281,
+      "model": "DBN",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 281,
+      "model": "BLS-BP",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 332,
+      "model": "Autoencoder",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 441,
+      "model": "Quantile Auto-Regression (QAR)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 441,
+      "model": "Random Forest",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 442,
+      "model": "QRPCG",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 442,
+      "model": "IWOA",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 443,
+      "model": "Pinball-Huber Loss",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 443,
+      "model": "NSGA-II",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 445,
+      "model": "GWO",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 445,
+      "model": "CNN",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 445,
+      "model": "BiLSTM",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 445,
+      "model": "Gorilla Troop Optimization (GTO)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 445,
+      "model": "Variational Mode Decomposition (VMD)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 445,
+      "model": "GWO-CNN-BiLSTM",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 445,
+      "model": "Gorilla Troop Optimization (GTO)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 445,
+      "model": "Variational Mode Decomposition (VMD)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 445,
+      "model": "CNN",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 445,
+      "model": "BiLSTM",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 449,
+      "model": "Daubechies Wavelet",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 449,
+      "model": "RNN",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 450,
+      "model": "Residual LSTM",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 451,
+      "model": "Soft-DTW",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 454,
+      "model": "LSTM",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 454,
+      "model": "GCN",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 454,
+      "model": "LSTM",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 454,
+      "model": "GCN",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 467,
+      "model": "ANN",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 476,
+      "model": "Non-decimated Wavelet Transform",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 476,
+      "model": "MLP",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 476,
+      "model": "RBF activation",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 479,
+      "model": "CNN-LSTM-AM",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 481,
+      "model": "LSTM",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 482,
+      "model": "Dart",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 482,
+      "model": "LightGBM",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 483,
+      "model": "SARIMA-ONS",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 484,
+      "model": "MEMD",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 484,
+      "model": "Linear Regression (LR)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 484,
+      "model": "Support Vector Regression (SVR)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 484,
+      "model": "Extreme Learning Machine (ELM)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 484,
+      "model": "Random Vector Functional Link (RVFL)",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 492,
+      "model": "Encoder-Decoder LSTM",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 492,
+      "model": "Encoder-Decoder LSTM",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 496,
+      "model": "Transfer Learning",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 496,
+      "model": "Reinforcement Learning",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 497,
+      "model": "LSTM with Attention Mechanism",
+      "literature_review": false,
+      "certainty": "sure"
+    },
+    {
+      "id": 497,
+      "model": "Two-branch LSTM Model",
+      "literature_review": false,
+      "certainty": "sure"
+    }
+  ]

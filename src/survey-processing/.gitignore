@@ -1,5 +1,5 @@
 # Compiled
-*.so 
+*.so
 
 .DS_Store
 
@@ -16,7 +16,6 @@ reports/
 *.pickle*
 *.xls*
 *.zip*
-data/
 output/
 
 # direnv
