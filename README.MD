@@ -24,8 +24,10 @@ Short-term load forecasting (STLF) is undergoing a fundamental shift driven by r
 - src/
   - survey-processing/
     # contains the code necessary to reproduce the survey including prisma, depduplication, plots, ...
+    - data/
+    # data for peproducing the structured search
   - paper/
-    # Contains the latex code to reproduce the paper and any literature pile
+    # Contains the latex code to reproduce the paper and any literature pile - will be added upon publication
 ```
 
 ## How to use
